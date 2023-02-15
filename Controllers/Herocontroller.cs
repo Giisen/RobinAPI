@@ -4,7 +4,7 @@ using RobinAPI.Models;
 
 namespace RobinAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]")]  
     [ApiController]
     public class Herocontroller : ControllerBase
     {
